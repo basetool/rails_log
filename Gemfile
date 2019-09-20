@@ -12,7 +12,7 @@ gem 'kaminari'
 
 gem 'factory_bot_rails'
 
-gem 'rails_com'
+gem 'rails_com', github: 'jamst/rails_com', tag: 'v0.8.20'
 gem 'pry-rails'
 gem 'awesome_print'
 
